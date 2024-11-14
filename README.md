@@ -3,7 +3,8 @@
 
 ### 🤓 오늘의 TMI가 있다면?
 곧 프랑스로 여행 간다!
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcityplanet.org%2Fblog%2Fko%2Ffrance%2Fexploring-toulouse-the-ultimate-travel-guide-for-first-timers&psig=AOvVaw2VwMF1BTypz1IddEWS815f&ust=1731660074900000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiyh86224kDFQAAAAAdAAAAABAE"/>
+<p></p>
+<img src="https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcR_F5Yih4auLQgiDDhZttJpj6PuRaVIfn9BNuBDG9OzsvI6vC7W9igne_SuSAV7bkTsixsfdaV-c7nz2NlLgqWsDjwwC2CadFPkvTGUgw"/>
 
 ### 🎒 외출 시에 꼭 챙기는 물건은?
 휴대폰, 지갑, 헤드폰
