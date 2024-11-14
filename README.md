@@ -32,3 +32,4 @@ git push origin
 git checkout <branch>
 ```
 
+* 초반에 **RNR**? 기능 분담이 필요하다 (conflict 생길 수도)
